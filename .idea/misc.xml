@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/drawable-v24/ic_baseline_call_24.xml" value="0.1875" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/drawable/layout_topline.xml" value="0.1875" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/drawable/layout_underline.xml" value="0.1875" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/layout/activity_auth.xml" value="0.264" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/layout/activity_chat.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/layout/activity_choice.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/layout/activity_occupant_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/layout/my_chat.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/layout/notice_map.xml" value="0.190234375" />
+        <entry key="..\:/Users/wnqhd/AndroidStudioProjects/2022BarrierFree-ShuttleLite(Driver)/app/src/main/res/layout/occupant_info.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

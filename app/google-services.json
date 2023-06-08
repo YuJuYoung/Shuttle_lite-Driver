@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "85838985106",
+    "project_id": "shuttlelite-ffdb1",
+    "storage_bucket": "shuttlelite-ffdb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85838985106:android:7ec3f4946ef4779877b34b",
+        "android_client_info": {
+          "package_name": "com.shuttlelite.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85838985106-q0j1k06esmehbp3asjf1rer6irqkrm3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKNsgk-IVfL1OGObAIPxjueD7_Qh5ZBCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85838985106-q0j1k06esmehbp3asjf1rer6irqkrm3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85838985106:android:db2b19d1254fe77377b34b",
+        "android_client_info": {
+          "package_name": "com.shuttlelite.protector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85838985106-q0j1k06esmehbp3asjf1rer6irqkrm3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKNsgk-IVfL1OGObAIPxjueD7_Qh5ZBCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85838985106-q0j1k06esmehbp3asjf1rer6irqkrm3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
